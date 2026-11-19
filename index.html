@@ -148,7 +148,13 @@
         ]
       }
     </script>
-  <style>.service-title-link{color:inherit;text-decoration:none}.service-title-link:hover{color:#1648c8}</style>
+  <style>
+    .service-title-link{color:inherit;text-decoration:none}
+    .service-title-link:hover{color:#1648c8}
+    .hero h1.hero-local-title{font-size:clamp(48px,5.2vw,68px)}
+    @media(max-width:850px){.hero h1.hero-local-title{font-size:clamp(40px,8vw,58px)}}
+    @media(max-width:400px){.hero h1.hero-local-title{font-size:clamp(36px,9vw,42px)}}
+  </style>
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -193,9 +199,9 @@
             <div class="eyebrow">
               <span></span> CREATIVE STUDIO · DIGITAL GROWTH PARTNER
             </div>
-            <h1>
-              Make your brand<br /><em>matter.</em> Make it<br />
-              <span>memorable.</span>
+            <h1 class="hero-local-title">
+              Digital Marketing<br />&amp; Video Editing<br />
+              <em>for Jaipur.</em>
             </h1>
             <p class="hero-lead">
               Digital marketing, Meta Ads, SEO, video editing and website
