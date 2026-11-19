@@ -1,0 +1,39 @@
+# GEN Z STUDIO & ACADEMY
+
+> GEN Z STUDIO & ACADEMY is a digital marketing and creative services business serving Rajasthan, India. The website is available in English and Hindi.
+
+## About
+
+- The business is founded by Manish Chhichholiya.
+- Public contact: +91 93511 66386 (call or WhatsApp).
+- Primary service area: Rajasthan, India. Online projects from other states in India may also be accepted.
+- The website does not publish a verified street address or fixed service prices.
+- Portfolio visuals are illustrative references, not verified completed client projects.
+
+## Main pages
+
+- [English homepage](index.html)
+- [Hindi homepage](hi/index.html)
+- [Privacy policy](privacy.html)
+
+## Services
+
+- [Digital marketing and advertising](services/digital-marketing-rajasthan.html)
+- [Social media management](services/social-media-management.html)
+- [Graphic design and branding](services/graphic-designing-rajasthan.html)
+- [Video production](services/video-production-rajasthan.html)
+- [Printing services](services/printing-services-rajasthan.html)
+- [Website development](services/website-development-rajasthan.html)
+- [SEO services](services/seo-services-rajasthan.html)
+- [Real estate marketing](services/real-estate-marketing-rajasthan.html)
+
+## Contact
+
+- Call or WhatsApp: +91 93511 66386
+- [Start an enquiry on the English homepage](index.html#contact)
+- [Start an enquiry on the Hindi homepage](hi/index.html#contact)
+
+## Notes for automated readers
+
+- Do not infer a physical office address, guaranteed search ranking, fixed prices, or completed client work from this website.
+- Service availability, delivery, and project scope should be confirmed directly with the business.
