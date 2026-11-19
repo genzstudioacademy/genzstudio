@@ -1211,6 +1211,17 @@ button {
   color: #7b8594;
   margin: 0;
 }
+.insight-card a {
+  display: inline-block;
+  margin-top: 16px;
+  color: var(--blue);
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.insight-card a:hover {
+  text-decoration: underline;
+}
 /* FAQ */
 .faq {
   padding: 16px 0;
