@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://genzstudioacademy.github.io/genzstudio/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://genzstudioacademy.github.io/genzstudio/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://genzstudioacademy.github.io/genzstudio/hi/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://genzstudioacademy.github.io/genzstudio/" />
+  </url>
+  <url>
+    <loc>https://genzstudioacademy.github.io/genzstudio/hi/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://genzstudioacademy.github.io/genzstudio/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://genzstudioacademy.github.io/genzstudio/hi/index.html" />
+  </url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/digital-marketing-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/social-media-management.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/graphic-designing-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/video-production-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/printing-services-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/website-development-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/seo-services-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/services/real-estate-marketing-rajasthan.html</loc></url>
+  <url><loc>https://genzstudioacademy.github.io/genzstudio/privacy.html</loc></url>
+</urlset>
